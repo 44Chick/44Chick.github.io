@@ -20,4 +20,4 @@
 <br>
 ### 취미
 * 그림
-<p><img src="/imges/shiki_icon.png" alt="picture_1" /></p> 
+<p><img src="/images/shiki_icon.png" alt="picture_1" /></p> 
