@@ -1,4 +1,4 @@
-# Welcome to my site.
+# Welcome.
 
 ## 자기소개
  Name : 김정훈 - Kim Jung Hoon -<br>
@@ -8,9 +8,9 @@
 <br>
 
 한국에서 태어나 일본에서 자랐다.<br>
-한국어보다 일본어가 특기.<br>
+한국어보다 일본어가 자신이 있다.<br>
 
-왜 일본어를 전공하지 않하는 이유: <br>
+왜 일본어를 전공하지 않는 이유: <br>
 새삼 한국에서 일본에대해 배울 수 있는것은 많지 않을 것이라고 생각했기 때문이다.<br>
 
 컴퓨터 공학을 전공 한 이유:<br>
@@ -53,7 +53,7 @@
 <br>
 
  * <b>[ParticleDecalDrawer](https://github.com/44Chick/ParticleDecalDrawer) </b><br>
-    &emsp; Nintendo가 발매하고있는 스 플래툰라는 게임이있다.  
+    &emsp; Nintendo가 발매하고있는 Splatoon 라는 게임이있다.  
     &emsp; 이것은 물총 등으로 잉크를 쏘아 내고, 제한 시간 내에 많은 면적을 바른 쪽이 이긴다는 게임이다.  
    &emsp;  그 게임처럼 총알을 발사하여 벽이나 바닥에 색칠하는 샘플이다.
 
