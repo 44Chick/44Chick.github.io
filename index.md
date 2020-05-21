@@ -20,4 +20,6 @@
 <br>
 ### 취미
 * 그림
-<p><img src="/images/shiki_icon.png" alt="picture_1" /></p> 
+<p><img src="/images/shiki_icon.png" alt="picture_1" width = 50%/></p> 
+<p><img src="/images/kyo.png" alt="picture_2" width = 50%/></p> 
+<p><img src="/images/taiga_Color.png" alt="picture_3" /></p> 
