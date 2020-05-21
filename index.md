@@ -20,4 +20,4 @@
 <br>
 ### 취미
 * 그림
-<p><img src="/img/sanma.gif" alt="サンマの塩焼き" /></p> 
+<p><img src="/imges/shiki_icon.png" alt="picture_1" /></p> 
