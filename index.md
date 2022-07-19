@@ -2,8 +2,8 @@
 
 ## 자기소개
  Name : 김정훈 - Kim Jung Hoon -<br>
- Belong : 제주대학교 - Jeju National Univarsity -<br>
  Major : 컴퓨터공학 - Computer Engineering -<br>
+ MBTI : 현실주의자 - ISTJ -<br> 
 
 <br>
 
@@ -43,6 +43,8 @@
 <br>
 <br>
 
+
+<!-- 
 ## 포크(fork)
 
 <br>
@@ -65,4 +67,5 @@
 * <b>[TowerDefence](https://github.com/44Chick/TowerDefense)</b> <br>
     &emsp; 이것은 타워 디펜스 게임의 샘플이다.<br>
     &emsp; 디자인 등을 만지면 눈길을 끌수 있을것이다.<br>
-    &emsp; 지금도 인기있는 게임 장르라고 생각해서 가지고왔다.<br>
+    &emsp; 지금도 인기있는 게임 장르라고 생각해서 가지고왔다.<br> 
+-->
